@@ -11,4 +11,4 @@ My GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingkampala)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kampala&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingkampala&show_icons=true)
