@@ -1,4 +1,4 @@
-[### Hi there 👋 My name is Ezeanya ThankGod
+### Hi there 👋 My name is Ezeanya ThankGod
 ### **Software Engineer**
 * 🌍 Based in Awka, Nigeria.
 * 📧 Email contact at ezeanyathankgod@gmail.com
