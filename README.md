@@ -9,3 +9,6 @@ My GitHub Stats
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingkampala&show_icons=true)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingkampala&show_icons=true&theme=radical)
