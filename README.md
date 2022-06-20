@@ -13,7 +13,7 @@
 My GitHub Stats
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kingkampala&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kingkampala&show_icons=true&theme)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kingkampala)  
 
