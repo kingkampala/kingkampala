@@ -1,5 +1,5 @@
 ### I'm Kampala Ezeanya
-### **Software Engineer, Backend Developer**
+### **Software Engineer | Backend Developer**
 * 🌍 Based in Awka, Anambra, Nigeria.
 * 📧 Email contact at ezeanyakampala@gmail.com
 * 🤝🏻 Open to collaboration and partnership on any project.
