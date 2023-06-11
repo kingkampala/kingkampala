@@ -17,4 +17,4 @@ My GitHub Stats
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kingkampala&show_icons=true&theme=blue-green)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kingkampala&show_icons=true&theme=blue-green) 
+![GitHub Activity Graph](<img src="./asset/github-compact.svg" height=250 alt="graph"/kingkampala>) 
