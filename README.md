@@ -9,7 +9,7 @@
 
 [<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg' alt='nodejs' height='40'>](https://nodejs.org/)
-[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/expressjs-colored.svg' alt='expressjs_icon.png' height='40'>](https://expressjs.com/)
+[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/expressjs-colored.svg' alt='simple-icons/simple-icons#2924' height='40'>](https://expressjs.com/)
 
 ### Socials
 
