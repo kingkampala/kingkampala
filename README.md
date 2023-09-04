@@ -7,9 +7,9 @@
 
 ### Skills
 
-[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg' alt='[JavaScript Logo](https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png) ' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg' alt='[nodejs](https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png)' height='40'>](https://nodejs.org/)
-[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/expressjs-colored.svg' alt='simple-icons/simple-icons#2924' height='40'>](https://expressjs.com/)
+[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg' alt='nodejs' height='40'>](https://nodejs.org/)
+[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/expressjs-colored.svg' alt='expressjs' height='40'>](https://expressjs.com/)
 
 ### Socials
 
