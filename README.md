@@ -6,7 +6,8 @@
 
 ### Skills
 
-- ![Javascript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg) 
+[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- ![Javascript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 - ![Node.js](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg) [Node.js](https://nodejs.org/)
 
