@@ -6,7 +6,6 @@
 
 ## Skills
 
-
 - ![Javascript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
@@ -14,7 +13,8 @@
 
 
 - ![Express.js](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/expressjs-colored.svg) [Express.js](https://expressjs.com/)
-  
+
+
 ### Socials
 
 
