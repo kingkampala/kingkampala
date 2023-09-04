@@ -4,16 +4,13 @@
 * 📧 Email contact at ezeanyakampala@gmail.com
 * 🤝🏻 Open to collaboration and partnership on any backend project.
 
-## Skills
+### Skills
 
 - ![Javascript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-
 - ![Node.js](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg) [Node.js](https://nodejs.org/)
 
-
 - ![Express.js](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/expressjs-colored.svg) [Express.js](https://expressjs.com/)
-
 
 ### Socials
 
