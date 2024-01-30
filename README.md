@@ -27,3 +27,5 @@ My GitHub Stats
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kingkampala&theme=vue)
 
 [![Kampala's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingkampala)](https://github.com/anuraghazra/github-readme-stats)
+
+![Kampala's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingkampala&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
