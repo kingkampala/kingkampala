@@ -25,3 +25,8 @@ My GitHub Stats
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kingkampala&show_icons=true&theme=blue-green)  
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kingkampala&theme=vue)
+
+
+![Total Pull Requests]([YOUR_GENERATED_BADGE_URL](https://img.shields.io/badge/dynamic/json?label=Total%20Pull%20Requests&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dtype%3Apr%2520author%3Akingkampala%2520is%3Aopen
+)https://img.shields.io/badge/dynamic/json?label=Total%20Pull%20Requests&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dtype%3Apr%2520author%3Ayour-github-username%2520is%3Aopen
+)
