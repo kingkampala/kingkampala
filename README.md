@@ -29,3 +29,4 @@ My GitHub Stats
 
 ![Total Pull Requests](https://img.shields.io/badge/dynamic/json?label=Total%20Pull%20Requests&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dtype%3Apr%2520author%3Akingkampala%2520is%3Aopen)
 
+![Total Pull Requests](https://img.shields.io/github/issues-pr/kingkampala/dezainahub/backend?color=blue)
