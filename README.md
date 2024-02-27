@@ -12,6 +12,7 @@
 [<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/expressjs-colored.svg' alt=' ' height='40'>](https://expressjs.com/)
 [<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg' alt='typescript' height='40'>](https://typescriptlang.org/)
 [<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg' alt=' ' height='40'>](https://python.org/)
+[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg' alt=' ' height='40'>](https://flask.palletsprojects.com/)
 
 ### Socials
 
