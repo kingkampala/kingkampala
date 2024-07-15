@@ -1,9 +1,9 @@
-### I'm Kampala Ezeanya
+### I'm ThankGod Ezeanya
 
 ### **Backend Developer | Software Programmer**
 * 🌍 Based in Awka, Anambra, Nigeria.
-* 📧 Email contact at ezeanyakampala@gmail.com
-* 🤝🏻 Open to collaboration and partnership on any backend project.
+* 📧 Email contact at ezeanyathankgod@gmail.com
+* 🤝🏻 Open to collaboration and partnership on any backend development and software projects.
 
 ### Skills
 
