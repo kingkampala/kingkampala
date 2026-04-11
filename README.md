@@ -1,9 +1,11 @@
-### I'm ThankGod Ezeanya
+### Hi! 👋 I'm ThankGod Ezeanya
 
-### **Backend Developer | Software Programmer**
-* 🌍 Based in Awka, Anambra, Nigeria.
-* 📧 Email contact at ezeanyathankgod@gmail.com
-* 🤝🏻 Open to collaboration and partnership on any backend development and software projects.
+### **Software Engineer**
+* 🌍 Building from Nigeria - for Africa and beyond
+* 🔧 I engineer scalable backends, AI-integrated systems, and fintech infrastructure - end to end, production-ready
+* 🤖 Currently deep in conversational AI and financial technology
+* 📧 Reach me at ezeanyathankgod@gmail.com
+* 🤝🏻 Open to meaningful collaborations - not just any project, the right ones
 
 ### Skills
 
